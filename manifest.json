@@ -1,0 +1,7 @@
+{
+  "name": "Send To Channel",
+  "version": "1.0.0",
+  "description": "Allows you to send your current selection in the active channel.",
+  "author": "tobimori",
+  "license": "MIT"
+}
