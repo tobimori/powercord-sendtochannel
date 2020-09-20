@@ -8,6 +8,6 @@ Adds a context menu entry that allows you to send your current selection into th
 
 Run 
 ```
-git clone https://github.com/tobimori/pc-sendtochannel
+git clone https://github.com/tobimori/powercord-sendtochannel
 ``` 
 in Powercords plugins directory.
